@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <circle cx="256" cy="256" r="256" fill="#17240d"/>
-  <text x="256" y="375" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Times New Roman', Georgia, serif" font-size="390" font-weight="400" fill="#f5e6d1">A</text>
-  <path d="M112 333 C174 284 280 286 346 312 C401 334 399 361 354 382 C281 416 178 423 110 405" fill="none" stroke="#f5e6d1" stroke-width="3.1" stroke-linecap="round"/>
-  <circle cx="364" cy="184" r="14" fill="#f5e6d1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128"><image href="favicon.png" width="128" height="128"/></svg>
